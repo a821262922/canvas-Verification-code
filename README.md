@@ -1,2 +1,2 @@
 # canvas-Verification-code
-原生vanvas生成验证码
+原生canvas生成验证码
